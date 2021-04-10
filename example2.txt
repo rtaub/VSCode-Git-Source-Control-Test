@@ -1,1 +1,1 @@
-Testing merge conflict vs code 2
+Testing merge conflict vscode 2
