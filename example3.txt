@@ -1,1 +1,3 @@
 Testing merge conflict vscode 3
+
+Testing merge conflict github 3
